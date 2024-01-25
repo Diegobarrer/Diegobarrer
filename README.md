@@ -33,20 +33,4 @@
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!------------------------------------------------------------------------------------------------------------------------------>
-v 
-
-<!------------------------------------------------------------------------------------------------------------------------------>
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-barrera/)
-
-<!------------------------------------------------------------------------------------------------------------------------------>
-<!------------------------------------------------------------------------------------------------------------------------------>v
-<p align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">
-
-<!------------------------------------------------------------------------------------------------------------------------------>
-![GitHub Followers](https://img.shields.io/github/followers/bastndev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/bastndev?style=social)
-<!------------------------------------------------------------------------------------------------------------------------------>
-
-<!------------------------------------------------------------------------------------------------------------------------------>
 
