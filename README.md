@@ -1,6 +1,6 @@
-# Bienvenido
+# Bienvenid@s
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCD600&size=35&center=true&vCenter=true&width=1000&lines=;👋+👋;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCD600&size=35&center=true&vCenter=true&width=1000&lines=;👋+👋;Cordial+saludo!)
 
 <!------------------------------------------------------------------------------------------------------------------------------>
 # Un poco de mi
