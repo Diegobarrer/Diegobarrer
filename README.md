@@ -1,9 +1,9 @@
-# welcome
+# Welcome
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCD600&size=35&center=true&vCenter=true&width=1000&lines=;👋+👋;best+regard!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCD600&size=35&center=true&vCenter=true&width=1000&lines=;👋+👋;Best+regard!)
 
 <!------------------------------------------------------------------------------------------------------------------------------>
-# a little of me
+# A little of me
 
 Software programming student with a
 great interest in web development. I have great
