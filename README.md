@@ -1,18 +1,18 @@
-# Bienvenid@s
+# welcome
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCD600&size=35&center=true&vCenter=true&width=1000&lines=;👋+👋;Cordial+saludo!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCD600&size=35&center=true&vCenter=true&width=1000&lines=;👋+👋;best+regard!)
 
 <!------------------------------------------------------------------------------------------------------------------------------>
-# Un poco de mi
+# a little of me
 
-Estudiante de programación de software con un
-gran interés en desarrolo web. Tengo gran
-capacidad para adaptarme a todo tipo de
-entornos y aportar siempre lo mejor de mí. Me
-caracterizo por mi entusiasmo por aprender y
-desarrollar mis habilidades. En busca de una
-oportunidad laboral en la cual pueda adquirir
-más experiencia.
+Software programming student with a
+great interest in web development. I have great
+ability to adapt to all types of
+environments and always contribute the best of myself. I
+I am characterized by my enthusiasm for learning and
+develop my skills. In search of a
+job opportunity in which you can acquire
+more experience.
 
 <!------------------------------------------------------------------------------------------------------------------------------>
 
